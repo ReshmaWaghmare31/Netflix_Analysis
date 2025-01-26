@@ -31,23 +31,8 @@ Insights:
 
 🔢 Rating Distribution: TV-MA and TV-14 lead the chart
 
-🌍 Country Dominance: The United States, India, and the UK are leading in content creation
+🌍 Country Dominance: The United States, India, and the UK are leading in content creation.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
+
+![Netflix dashboard img](https://github.com/user-attachments/assets/c2a3802b-50b1-4465-a241-fdc9dda45d0a)
+
